@@ -1,4 +1,4 @@
-package com.design.servlet;
+package com.design.servlet.v1;
 
 public interface ServletFilter {
 
