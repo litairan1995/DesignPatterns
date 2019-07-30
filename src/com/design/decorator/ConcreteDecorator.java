@@ -12,7 +12,7 @@ public class ConcreteDecorator extends Decorator {
 
     @Override
     public void biu() {
-        System.out.println("reday?go");
+        System.out.println("ready?go");
         super.biu();
     }
 }
