@@ -1,5 +1,8 @@
 package com.design.Observer.v5;
 
+import java.awt.*;
+import java.awt.event.WindowListener;
+
 public class Test {
     public static void main(String[] args) {
 
@@ -17,7 +20,6 @@ public class Test {
         System.out.println("----------------------------------------------");
         wechaObserver.removeObserver(userZhang);
         wechaObserver.setInformation("JAVA是世界上最好用的语言！");
-
 
     }
 }
