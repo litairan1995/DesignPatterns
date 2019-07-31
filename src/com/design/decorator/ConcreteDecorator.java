@@ -1,7 +1,7 @@
 package com.design.decorator;
 
 /**
- * 具体装饰类
+ * 具体装饰类 继承自被装饰类
  */
 public class ConcreteDecorator extends Decorator {
 

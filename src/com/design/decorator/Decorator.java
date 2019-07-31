@@ -1,10 +1,11 @@
 package com.design.decorator;
 
 /**
- * 装饰类
+ * 被装饰类
  */
 public class Decorator implements Component {
 
+    //维护一个Component 对象
     public Component component;
 
 
